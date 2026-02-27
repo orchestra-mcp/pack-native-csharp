@@ -1,0 +1,14 @@
+{
+    "name": "orchestra-mcp/pack-native-csharp",
+    "description": "C# and Windows native plugin development agents",
+    "version": "0.1.0",
+    "type": "pack",
+    "license": "MIT",
+    "stacks": ["csharp"],
+    "contents": {
+        "skills": [],
+        "agents": ["csharp-plugin"],
+        "hooks": []
+    },
+    "tags": ["csharp", "windows", "winui", "dotnet"]
+}
